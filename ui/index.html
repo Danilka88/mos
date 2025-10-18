@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Индустриальные данные Москвы</title>
+    <!-- Подключение Tailwind CSS через CDN для быстрой стилизации без локальной сборки -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- 
+      Import Map: Карта импортов. 
+      Это стандартная веб-технология, которая позволяет использовать "голые" импорты (например, import React from 'react') 
+      прямо в браузере без шага сборки (webpack, vite и т.д.).
+      Браузер использует эту карту, чтобы понять, откуда загружать каждую зависимость.
+      Это идеально подходит для быстрых прототипов и легковесных приложений.
+    -->
+    <script type="importmap">
+      {
+        "imports": {
+          "recharts": "https://aistudiocdn.com/recharts@^3.3.0",
+          "@google/genai": "https://aistudiocdn.com/@google/genai@^1.25.0",
+          "react/": "https://aistudiocdn.com/react@^19.2.0/",
+          "react": "https://aistudiocdn.com/react@^19.2.0",
+          "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+          "react-dom": "https://aistudiocdn.com/react-dom@^19.2.0"
+        }
+      }
+    </script>
+  <link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-gray-900">
+    <!-- Корневой элемент, в который будет монтироваться React-приложение -->
+    <div id="root"></div>
+    <!-- 
+      Основной скрипт приложения. 
+      Атрибут type="module" включает современный режим работы с JavaScript, 
+      позволяя использовать import/export и поддерживая importmap.
+    -->
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

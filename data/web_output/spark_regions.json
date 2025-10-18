@@ -1,0 +1,586 @@
+[
+    {
+        "name": "Якиманка",
+        "url": "https://spark-interfax.ru/statistics/city/45286596000"
+    },
+    {
+        "name": "Пресненский",
+        "url": "https://spark-interfax.ru/statistics/city/45286575000"
+    },
+    {
+        "name": "Басманный",
+        "url": "https://spark-interfax.ru/statistics/city/45286555000"
+    },
+    {
+        "name": "Замоскворечье",
+        "url": "https://spark-interfax.ru/statistics/city/45286560000"
+    },
+    {
+        "name": "Красносельский",
+        "url": "https://spark-interfax.ru/statistics/city/45286565000"
+    },
+    {
+        "name": "Тверской",
+        "url": "https://spark-interfax.ru/statistics/city/45286585000"
+    },
+    {
+        "name": "Западное Дегунино",
+        "url": "https://spark-interfax.ru/statistics/city/45277577000"
+    },
+    {
+        "name": "Мещанский",
+        "url": "https://spark-interfax.ru/statistics/city/45286570000"
+    },
+    {
+        "name": "Хамовники",
+        "url": "https://spark-interfax.ru/statistics/city/45286590000"
+    },
+    {
+        "name": "Таганский",
+        "url": "https://spark-interfax.ru/statistics/city/45286580000"
+    },
+    {
+        "name": "Хорошевский",
+        "url": "https://spark-interfax.ru/statistics/city/45277598000"
+    },
+    {
+        "name": "Даниловский",
+        "url": "https://spark-interfax.ru/statistics/city/45296559000"
+    },
+    {
+        "name": "Нижегородский",
+        "url": "https://spark-interfax.ru/statistics/city/45290578000"
+    },
+    {
+        "name": "Можайский",
+        "url": "https://spark-interfax.ru/statistics/city/45268569000"
+    },
+    {
+        "name": "Коньково",
+        "url": "https://spark-interfax.ru/statistics/city/45293566000"
+    },
+    {
+        "name": "Академический",
+        "url": "https://spark-interfax.ru/statistics/city/45293554000"
+    },
+    {
+        "name": "Арбат",
+        "url": "https://spark-interfax.ru/statistics/city/45286552000"
+    },
+    {
+        "name": "Черемушки",
+        "url": "https://spark-interfax.ru/statistics/city/45293590000"
+    },
+    {
+        "name": "Донской",
+        "url": "https://spark-interfax.ru/statistics/city/45296561000"
+    },
+    {
+        "name": "Войковский",
+        "url": "https://spark-interfax.ru/statistics/city/45277565000"
+    },
+    {
+        "name": "Аэропорт",
+        "url": "https://spark-interfax.ru/statistics/city/45277553000"
+    },
+    {
+        "name": "Нагатино-Садовники",
+        "url": "https://spark-interfax.ru/statistics/city/45296571000"
+    },
+    {
+        "name": "Беговой",
+        "url": "https://spark-interfax.ru/statistics/city/45277556000"
+    },
+    {
+        "name": "Московский",
+        "url": "https://spark-interfax.ru/statistics/city/45297565000"
+    },
+    {
+        "name": "Лефортово",
+        "url": "https://spark-interfax.ru/statistics/city/45290564000"
+    },
+    {
+        "name": "Филевский парк",
+        "url": "https://spark-interfax.ru/statistics/city/45268595000"
+    },
+    {
+        "name": "Рязанский",
+        "url": "https://spark-interfax.ru/statistics/city/45290586000"
+    },
+    {
+        "name": "Выхино-Жулебино",
+        "url": "https://spark-interfax.ru/statistics/city/45290554000"
+    },
+    {
+        "name": "Дорогомилово",
+        "url": "https://spark-interfax.ru/statistics/city/45268554000"
+    },
+    {
+        "name": "Хорошево-Мневники",
+        "url": "https://spark-interfax.ru/statistics/city/45283582000"
+    },
+    {
+        "name": "Тропарево-Никулино",
+        "url": "https://spark-interfax.ru/statistics/city/45268592000"
+    },
+    {
+        "name": "Южное Бутово",
+        "url": "https://spark-interfax.ru/statistics/city/45293594000"
+    },
+    {
+        "name": "Останкинский",
+        "url": "https://spark-interfax.ru/statistics/city/45280572000"
+    },
+    {
+        "name": "Савеловский",
+        "url": "https://spark-interfax.ru/statistics/city/45277586000"
+    },
+    {
+        "name": "Алексеевский",
+        "url": "https://spark-interfax.ru/statistics/city/45280552000"
+    },
+    {
+        "name": "Перово",
+        "url": "https://spark-interfax.ru/statistics/city/45263583000"
+    },
+    {
+        "name": "Проспект Вернадского",
+        "url": "https://spark-interfax.ru/statistics/city/45268581000"
+    },
+    {
+        "name": "Ховрино",
+        "url": "https://spark-interfax.ru/statistics/city/45277595000"
+    },
+    {
+        "name": "Зюзино",
+        "url": "https://spark-interfax.ru/statistics/city/45293562000"
+    },
+    {
+        "name": "Крылатское",
+        "url": "https://spark-interfax.ru/statistics/city/45268560000"
+    },
+    {
+        "name": "Марьина роща",
+        "url": "https://spark-interfax.ru/statistics/city/45280569000"
+    },
+    {
+        "name": "Раменки",
+        "url": "https://spark-interfax.ru/statistics/city/45268584000"
+    },
+    {
+        "name": "Гольяново",
+        "url": "https://spark-interfax.ru/statistics/city/45263564000"
+    },
+    {
+        "name": "Очаково-Матвеевское",
+        "url": "https://spark-interfax.ru/statistics/city/45268579000"
+    },
+    {
+        "name": "Преображенское",
+        "url": "https://spark-interfax.ru/statistics/city/45263594000"
+    },
+    {
+        "name": "Сосенское",
+        "url": "https://spark-interfax.ru/statistics/city/45297574000"
+    },
+    {
+        "name": "Бутырский",
+        "url": "https://spark-interfax.ru/statistics/city/45280561000"
+    },
+    {
+        "name": "Соколиная гора",
+        "url": "https://spark-interfax.ru/statistics/city/45263588000"
+    },
+    {
+        "name": "Обручевский",
+        "url": "https://spark-interfax.ru/statistics/city/45293578000"
+    },
+    {
+        "name": "Щукино",
+        "url": "https://spark-interfax.ru/statistics/city/45283587000"
+    },
+    {
+        "name": "Головинский",
+        "url": "https://spark-interfax.ru/statistics/city/45277571000"
+    },
+    {
+        "name": "Нагорный",
+        "url": "https://spark-interfax.ru/statistics/city/45296575000"
+    },
+    {
+        "name": "Ростокино",
+        "url": "https://spark-interfax.ru/statistics/city/45280577000"
+    },
+    {
+        "name": "Сокольники",
+        "url": "https://spark-interfax.ru/statistics/city/45263591000"
+    },
+    {
+        "name": "Ломоносовский",
+        "url": "https://spark-interfax.ru/statistics/city/45293574000"
+    },
+    {
+        "name": "Печатники",
+        "url": "https://spark-interfax.ru/statistics/city/45290582000"
+    },
+    {
+        "name": "Кунцево",
+        "url": "https://spark-interfax.ru/statistics/city/45268562000"
+    },
+    {
+        "name": "Покровское-Стрешнево",
+        "url": "https://spark-interfax.ru/statistics/city/45283569000"
+    },
+    {
+        "name": "Отрадное",
+        "url": "https://spark-interfax.ru/statistics/city/45280574000"
+    },
+    {
+        "name": "Гагаринский",
+        "url": "https://spark-interfax.ru/statistics/city/45293558000"
+    },
+    {
+        "name": "Марьино",
+        "url": "https://spark-interfax.ru/statistics/city/45290572000"
+    },
+    {
+        "name": "Ново-Переделкино",
+        "url": "https://spark-interfax.ru/statistics/city/45268577000"
+    },
+    {
+        "name": "Бабушкинский",
+        "url": "https://spark-interfax.ru/statistics/city/45280556000"
+    },
+    {
+        "name": "Котловка",
+        "url": "https://spark-interfax.ru/statistics/city/45293570000"
+    },
+    {
+        "name": "Левобережный",
+        "url": "https://spark-interfax.ru/statistics/city/45277583000"
+    },
+    {
+        "name": "Тимирязевский",
+        "url": "https://spark-interfax.ru/statistics/city/45277592000"
+    },
+    {
+        "name": "Чертаново Северное",
+        "url": "https://spark-interfax.ru/statistics/city/45296593000"
+    },
+    {
+        "name": "Текстильщики",
+        "url": "https://spark-interfax.ru/statistics/city/45290590000"
+    },
+    {
+        "name": "Измайлово",
+        "url": "https://spark-interfax.ru/statistics/city/45263570000"
+    },
+    {
+        "name": "Южнопортовый",
+        "url": "https://spark-interfax.ru/statistics/city/45290594000"
+    },
+    {
+        "name": "Южное Тушино",
+        "url": "https://spark-interfax.ru/statistics/city/45283593000"
+    },
+    {
+        "name": "Царицыно",
+        "url": "https://spark-interfax.ru/statistics/city/45296590000"
+    },
+    {
+        "name": "Люблино",
+        "url": "https://spark-interfax.ru/statistics/city/45290568000"
+    },
+    {
+        "name": "Алтуфьевский",
+        "url": "https://spark-interfax.ru/statistics/city/45280554000"
+    },
+    {
+        "name": "Свиблово",
+        "url": "https://spark-interfax.ru/statistics/city/45280580000"
+    },
+    {
+        "name": "Чертаново Южное",
+        "url": "https://spark-interfax.ru/statistics/city/45296597000"
+    },
+    {
+        "name": "Северное Бутово",
+        "url": "https://spark-interfax.ru/statistics/city/45293582000"
+    },
+    {
+        "name": "Фили-Давыдково",
+        "url": "https://spark-interfax.ru/statistics/city/45268597000"
+    },
+    {
+        "name": "Москворечье-Сабурово",
+        "url": "https://spark-interfax.ru/statistics/city/45296569000"
+    },
+    {
+        "name": "Сокол",
+        "url": "https://spark-interfax.ru/statistics/city/45277589000"
+    },
+    {
+        "name": "Солнцево",
+        "url": "https://spark-interfax.ru/statistics/city/45268588000"
+    },
+    {
+        "name": "Восточное Дегунино",
+        "url": "https://spark-interfax.ru/statistics/city/45277568000"
+    },
+    {
+        "name": "Богородское",
+        "url": "https://spark-interfax.ru/statistics/city/45263552000"
+    },
+    {
+        "name": "Коптево",
+        "url": "https://spark-interfax.ru/statistics/city/45277580000"
+    },
+    {
+        "name": "Чертаново Центральное",
+        "url": "https://spark-interfax.ru/statistics/city/45296595000"
+    },
+    {
+        "name": "Митино",
+        "url": "https://spark-interfax.ru/statistics/city/45283559000"
+    },
+    {
+        "name": "Ясенево",
+        "url": "https://spark-interfax.ru/statistics/city/45293598000"
+    },
+    {
+        "name": "Теплый Стан",
+        "url": "https://spark-interfax.ru/statistics/city/45293586000"
+    },
+    {
+        "name": "Бибирево",
+        "url": "https://spark-interfax.ru/statistics/city/45280558000"
+    },
+    {
+        "name": "Строгино",
+        "url": "https://spark-interfax.ru/statistics/city/45283577000"
+    },
+    {
+        "name": "Бирюлево Восточное",
+        "url": "https://spark-interfax.ru/statistics/city/45296553000"
+    },
+    {
+        "name": "Ярославский",
+        "url": "https://spark-interfax.ru/statistics/city/45280597000"
+    },
+    {
+        "name": "Метрогородок",
+        "url": "https://spark-interfax.ru/statistics/city/45263581000"
+    },
+    {
+        "name": "Бирюлево Западное",
+        "url": "https://spark-interfax.ru/statistics/city/45296555000"
+    },
+    {
+        "name": "Новогиреево",
+        "url": "https://spark-interfax.ru/statistics/city/45263576000"
+    },
+    {
+        "name": "Троицк",
+        "url": "https://spark-interfax.ru/statistics/city/45298578000"
+    },
+    {
+        "name": "Лианозово",
+        "url": "https://spark-interfax.ru/statistics/city/45280563000"
+    },
+    {
+        "name": "Куркино",
+        "url": "https://spark-interfax.ru/statistics/city/45283555000"
+    },
+    {
+        "name": "Косино-Ухтомский",
+        "url": "https://spark-interfax.ru/statistics/city/45263573000"
+    },
+    {
+        "name": "Марфино",
+        "url": "https://spark-interfax.ru/statistics/city/45280567000"
+    },
+    {
+        "name": "Бескудниковский",
+        "url": "https://spark-interfax.ru/statistics/city/45277559000"
+    },
+    {
+        "name": "Северное Тушино",
+        "url": "https://spark-interfax.ru/statistics/city/45283573000"
+    },
+    {
+        "name": "\"Мосрентген\"",
+        "url": "https://spark-interfax.ru/statistics/city/45297568000"
+    },
+    {
+        "name": "Нагатинский затон",
+        "url": "https://spark-interfax.ru/statistics/city/45296573000"
+    },
+    {
+        "name": "Молжаниновский",
+        "url": "https://spark-interfax.ru/statistics/city/45277584000"
+    },
+    {
+        "name": "Щербинка",
+        "url": "https://spark-interfax.ru/statistics/city/45297581000"
+    },
+    {
+        "name": "Орехово-Борисово Южное",
+        "url": "https://spark-interfax.ru/statistics/city/45296579000"
+    },
+    {
+        "name": "Северное Медведково",
+        "url": "https://spark-interfax.ru/statistics/city/45280583000"
+    },
+    {
+        "name": "Дмитровский",
+        "url": "https://spark-interfax.ru/statistics/city/45277574000"
+    },
+    {
+        "name": "Рязановское",
+        "url": "https://spark-interfax.ru/statistics/city/45297571000"
+    },
+    {
+        "name": "Некрасовка",
+        "url": "https://spark-interfax.ru/statistics/city/45290574000"
+    },
+    {
+        "name": "Матушкино",
+        "url": "https://spark-interfax.ru/statistics/city/45272562000"
+    },
+    {
+        "name": "Кузьминки",
+        "url": "https://spark-interfax.ru/statistics/city/45290562000"
+    },
+    {
+        "name": "Братеево",
+        "url": "https://spark-interfax.ru/statistics/city/45296557000"
+    },
+    {
+        "name": "Силино",
+        "url": "https://spark-interfax.ru/statistics/city/45272572000"
+    },
+    {
+        "name": "Восточное Измайлово",
+        "url": "https://spark-interfax.ru/statistics/city/45263558000"
+    },
+    {
+        "name": "Северное Измайлово",
+        "url": "https://spark-interfax.ru/statistics/city/45263585000"
+    },
+    {
+        "name": "Внуково",
+        "url": "https://spark-interfax.ru/statistics/city/45268552000"
+    },
+    {
+        "name": "Десеновское",
+        "url": "https://spark-interfax.ru/statistics/city/45297556000"
+    },
+    {
+        "name": "Орехово-Борисово Северное",
+        "url": "https://spark-interfax.ru/statistics/city/45296577000"
+    },
+    {
+        "name": "Капотня",
+        "url": "https://spark-interfax.ru/statistics/city/45290558000"
+    },
+    {
+        "name": "Вешняки",
+        "url": "https://spark-interfax.ru/statistics/city/45263555000"
+    },
+    {
+        "name": "Савелки",
+        "url": "https://spark-interfax.ru/statistics/city/45272568000"
+    },
+    {
+        "name": "Лосиноостровский",
+        "url": "https://spark-interfax.ru/statistics/city/45280565000"
+    },
+    {
+        "name": "Новокосино",
+        "url": "https://spark-interfax.ru/statistics/city/45263579000"
+    },
+    {
+        "name": "Внуковское",
+        "url": "https://spark-interfax.ru/statistics/city/45297552000"
+    },
+    {
+        "name": "Зябликово",
+        "url": "https://spark-interfax.ru/statistics/city/45296565000"
+    },
+    {
+        "name": "Первомайское",
+        "url": "https://spark-interfax.ru/statistics/city/45298572000"
+    },
+    {
+        "name": "Старое Крюково",
+        "url": "https://spark-interfax.ru/statistics/city/45272576000"
+    },
+    {
+        "name": "Северный",
+        "url": "https://spark-interfax.ru/statistics/city/45280585000"
+    },
+    {
+        "name": "Михайлово-Ярцевское",
+        "url": "https://spark-interfax.ru/statistics/city/45298564000"
+    },
+    {
+        "name": "Южное Медведково",
+        "url": "https://spark-interfax.ru/statistics/city/45280594000"
+    },
+    {
+        "name": "Марушкинское",
+        "url": "https://spark-interfax.ru/statistics/city/45297562000"
+    },
+    {
+        "name": "Ивановское",
+        "url": "https://spark-interfax.ru/statistics/city/45263567000"
+    },
+    {
+        "name": "Крюково",
+        "url": "https://spark-interfax.ru/statistics/city/45272580000"
+    },
+    {
+        "name": "Краснопахорское",
+        "url": "https://spark-interfax.ru/statistics/city/45298561000"
+    },
+    {
+        "name": "Щаповское",
+        "url": "https://spark-interfax.ru/statistics/city/45298583000"
+    },
+    {
+        "name": "Воскресенское",
+        "url": "https://spark-interfax.ru/statistics/city/45297554000"
+    },
+    {
+        "name": "Вороновское",
+        "url": "https://spark-interfax.ru/statistics/city/45298553000"
+    },
+    {
+        "name": "Роговское",
+        "url": "https://spark-interfax.ru/statistics/city/45298575000"
+    },
+    {
+        "name": "Филимонковское",
+        "url": "https://spark-interfax.ru/statistics/city/45297577000"
+    },
+    {
+        "name": "Кокошкино",
+        "url": "https://spark-interfax.ru/statistics/city/45297559000"
+    },
+    {
+        "name": "Восточный",
+        "url": "https://spark-interfax.ru/statistics/city/45263561000"
+    },
+    {
+        "name": "Новофедоровское",
+        "url": "https://spark-interfax.ru/statistics/city/45298567000"
+    },
+    {
+        "name": "Кленовское",
+        "url": "https://spark-interfax.ru/statistics/city/45298558000"
+    },
+    {
+        "name": "Киевский",
+        "url": "https://spark-interfax.ru/statistics/city/45298555000"
+    }
+]

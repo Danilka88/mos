@@ -1,0 +1,987 @@
+{
+  "companies": [
+    {
+      "contacts": {
+        "emails": ["info@svobodako.ru"],
+        "phones": ["+7 (495)685-20-50"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "20.42",
+          "name": "Производство парфюмерных и косметических средств"
+        },
+        "additionalActivitiesCount": 9
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'ОСТАНКИНСКИЙ МЯСОПЕРЕРАБАТЫВАЮЩИЙ КОМБИНАТ'",
+        "shortName": "АО 'ОМПК'",
+        "status": "действующая",
+        "registrationDate": "1993-01-25",
+        "legalForm": "Непубличные акционерные общества",
+        "authorizedCapital": 1017091230
+      },
+      "identifiers": {
+        "inn": "7715034360",
+        "ogrn": "1027739261263",
+        "kpp": "771501001",
+        "okpo": "00425283"
+      },
+      "location": {
+        "legalAddress": "127254, город Москва, Огородный пр-д, д. 18",
+        "administrativeDistrict": "Северо-Восточный административный округ",
+        "municipality": "Бутырский район",
+        "coordinates": {
+          "latitude": 55.8185,
+          "longitude": 37.5999
+        },
+        "cadastralNumber": "77:02:0021001:1091"
+      },
+      "management": {
+        "ceoName": "Медведев Роман Игоревич"
+      },
+      "contacts": {
+        "websites": ["https://ompk.ru/", "www.ompk.ru"],
+        "emails": ["info@sosiska.ru"],
+        "phones": [
+          "+7 (495) 979-72-27",
+          "+7 (495) 980-53-86",
+          "+7 (495) 980-53-90"
+        ]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.13",
+          "name": "Производство продукции из мяса убойных животных и мяса птицы"
+        },
+        "additionalActivitiesCount": 23
+      },
+      "financials": {
+        "2023": {
+          "revenue": 63535574000,
+          "netProfit": 3637773000
+        },
+        "2022": {
+          "revenue": 59453498000,
+          "netProfit": 11598092000
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'ВИММ-БИЛЛЬ-ДАНН'",
+        "shortName": "АО 'ВБД'",
+        "status": "действующая",
+        "registrationDate": "1993-03-04",
+        "legalForm": "Непубличные акционерные общества",
+        "authorizedCapital": 4331860
+      },
+      "identifiers": {
+        "inn": "7713085659",
+        "ogrn": "1027739768924",
+        "kpp": "771301001",
+        "okpo": "05268977"
+      },
+      "location": {
+        "legalAddress": "127591, город Москва, Дмитровское ш., д. 108",
+        "administrativeDistrict": "Северный административный округ",
+        "municipality": "Восточное Дегунино",
+        "coordinates": null,
+        "cadastralNumber": null
+      },
+      "management": {
+        "ceoName": "Михайлов Максим Викторович"
+      },
+      "contacts": {
+        "websites": ["http://www.pepsico.com", "mazhitel.ru"],
+        "emails": [
+          "info@wbd.ru",
+          "contact.russia@pepsico.com",
+          "elena.kopytova@pepsico.com"
+        ],
+        "phones": ["+7 (495) 745-80-80", "+7 (495) 925-58-05"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.51",
+          "name": "Производство молока (кроме сырого) и молочной продукции"
+        },
+        "additionalActivitiesCount": 22
+      },
+      "financials": {
+        "2023": {
+          "revenue": 128860000000,
+          "netProfit": 9122641509
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'ГАЗПРОМНЕФТЬ - МОСКОВСКИЙ НПЗ'",
+        "shortName": "АО 'ГАЗПРОМНЕФТЬ - МНПЗ'",
+        "status": "действующая",
+        "registrationDate": "1994-05-26",
+        "legalForm": "Непубличные акционерные общества",
+        "authorizedCapital": 144193200
+      },
+      "identifiers": {
+        "inn": "7723006328",
+        "ogrn": "1027700500190",
+        "kpp": "772301001",
+        "okpo": "05766623"
+      },
+      "location": {
+        "legalAddress": "109429, г. Москва, кв-л Капотня 2-й, д. 1, к. 3",
+        "administrativeDistrict": "Юго-Восточный административный округ",
+        "municipality": "район Капотня",
+        "coordinates": {
+          "latitude": 55.643896,
+          "longitude": 37.796939
+        },
+        "cadastralNumber": "77:04:0004021:1042"
+      },
+      "management": {
+        "ceoName": "Зубер Виталий Игоревич"
+      },
+      "contacts": {
+        "websites": ["http://mnpz.gazprom-neft.ru/"],
+        "emails": ["mnpz@gazprom-neft.ru", "kulikova.yua@mnpz.ru"],
+        "phones": [
+          "+7 (495) 734-92-01",
+          "+7 (495) 355-62-52",
+          "+7 (495) 734-92-00"
+        ]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "19.20",
+          "name": "Производство нефтепродуктов"
+        },
+        "additionalActivitiesCount": 22
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'ДОБРОЛЕК'",
+        "shortName": "ООО 'ДОБРОЛЕК'",
+        "status": "действующая",
+        "registrationDate": "2011-01-19",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 10000
+      },
+      "identifiers": {
+        "inn": "7724774770",
+        "ogrn": "1117746022547",
+        "kpp": "772401001",
+        "okpo": "69694803"
+      },
+      "location": {
+        "legalAddress": "115446, город Москва, Коломенский пр-д, д. 13а, этаж 5 помещение VII комната 8",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": null,
+        "cadastralNumber": "77:05:0004004:1126"
+      },
+      "management": {
+        "ceoName": "Дёмкина Татьяна Николаевна"
+      },
+      "contacts": {
+        "websites": ["http://dobrolek.ru"],
+        "emails": [],
+        "phones": ["+7 (499) 800-77-87"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "21.20.1",
+          "name": "Производство лекарственных препаратов для медицинского применения"
+        },
+        "additionalActivitiesCount": 10
+      },
+      "financials": {
+        "2023": {
+          "revenue": 20080643000,
+          "netProfit": 191000000
+        },
+        "2022": {
+          "revenue": 10800000000,
+          "netProfit": 189000000
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'МИКРОН'",
+        "shortName": "АО 'МИКРОН'",
+        "status": "действующая",
+        "registrationDate": "1994-01-13",
+        "legalForm": null,
+        "authorizedCapital": 1262775
+      },
+      "identifiers": {
+        "inn": "7735007358",
+        "ogrn": "1027700073466",
+        "kpp": "773501001",
+        "okpo": "07589295"
+      },
+      "location": {
+        "legalAddress": "124460, город Москва, город Зеленоград, ул. Академика Валиева, д. 6 стр. 1",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": null,
+        "cadastralNumber": null
+      },
+      "management": {
+        "ceoName": "Хасьянова Гюльнара Шамильевна"
+      },
+      "contacts": {
+        "websites": ["https://www.mikron.ru/"],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "26.11",
+          "name": "Производство элементов электронной аппаратуры"
+        },
+        "additionalActivitiesCount": 30
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'КОНДИТЕРСКИЙ КОНЦЕРН БАБАЕВСКИЙ'",
+        "shortName": "АО 'КОНДИТЕРСКИЙ КОНЦЕРН БАБАЕВСКИЙ'",
+        "status": "действующая",
+        "registrationDate": "1993-12-29",
+        "legalForm": "Непубличные акционерные общества",
+        "authorizedCapital": 2970889.18
+      },
+      "identifiers": {
+        "inn": "7708029391",
+        "ogrn": "1027700070881",
+        "kpp": "770801001",
+        "okpo": "00340658"
+      },
+      "location": {
+        "legalAddress": "107140, г. Москва, ул. Малая Красносельская, д. 7",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": null,
+        "cadastralNumber": "77:01:0003037:1024"
+      },
+      "management": {
+        "ceoName": "ООО 'ОБЪЕДИНЕННЫЕ КОНДИТЕРЫ' (управляющая организация)"
+      },
+      "contacts": {
+        "websites": ["www.uniconf.ru/factories/babaevsky/"],
+        "emails": ["info@babaev.ru"],
+        "phones": ["+7 (499)264-43-10"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.82.2",
+          "name": "Производство шоколада и сахаристых кондитерских изделий"
+        },
+        "additionalActivitiesCount": 12
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": 877000000
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'МОСКОВСКИЙ АВТОМОБИЛЬНЫЙ ЗАВОД 'МОСКВИЧ''",
+        "shortName": "АО МАЗ 'МОСКВИЧ'",
+        "status": "действующее",
+        "registrationDate": "1998-08-17",
+        "legalForm": "Закрытое акционерное общество",
+        "authorizedCapital": null
+      },
+      "identifiers": {
+        "inn": "7709259743",
+        "ogrn": "1027739178202",
+        "kpp": "772301001",
+        "okpo": null
+      },
+      "location": {
+        "legalAddress": "109316, г. Москва, пр-кт Волгоградский, д. 42, к. 36",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": null,
+        "cadastralNumber": "77:04:0003004:1059"
+      },
+      "management": {
+        "ceoName": "Мозер Ханс-Петер"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": ["zakupki@moskvich-auto.ru"],
+        "phones": ["+7 963 979 16 91"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "29.10",
+          "name": "Производство автотранспортных средств"
+        },
+        "additionalActivitiesCount": 28
+      },
+      "financials": {
+        "2023": {
+          "revenue": 59175000000,
+          "netProfit": -8585000000
+        },
+        "2022": {
+          "revenue": 42571942446,
+          "netProfit": -2394000000
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ 'ИТЭЛМА''",
+        "shortName": "ООО 'НПП 'ИТЭЛМА''",
+        "status": "действующая",
+        "registrationDate": "2008-12-15",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 1000000
+      },
+      "identifiers": {
+        "inn": "7724685256",
+        "ogrn": "5087746597648",
+        "kpp": "772401001",
+        "okpo": null
+      },
+      "location": {
+        "legalAddress": "115230, г. Москва, проезд Нагатинский 1-й, д. 10 стр. 1, оф. 25",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": null,
+        "cadastralNumber": "77:05:0000000:1217"
+      },
+      "management": {
+        "ceoName": "Воробьёв Алексей Викторович"
+      },
+      "contacts": {
+        "websites": ["https://www.itelma.ru/"],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "29.31",
+          "name": "Производство электрического и электронного оборудования для автотранспортных средств"
+        },
+        "additionalActivitiesCount": 16
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'ЧЕРКИЗОВСКИЙ МЯСОПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД'",
+        "shortName": "АО 'ЧМПЗ'",
+        "status": "действующая",
+        "registrationDate": "1993-12-28",
+        "legalForm": null,
+        "authorizedCapital": 10446287
+      },
+      "identifiers": {
+        "inn": "7718013714",
+        "ogrn": "1027700126849",
+        "kpp": "771801001",
+        "okpo": "11510767"
+      },
+      "location": {
+        "legalAddress": "107143, г. Москва, ул. Пермская, д. 5",
+        "administrativeDistrict": null,
+        "municipality": "Метрогородок",
+        "coordinates": null,
+        "cadastralNumber": "77:03:0002002:2387"
+      },
+      "management": {
+        "ceoName": "Горшечникова Елена Васильевна"
+      },
+      "contacts": {
+        "websites": ["www.cherkizovo-group.ru"],
+        "emails": ["corplaw@cherkizovo.com"],
+        "phones": ["+7 (499) 788-32-32"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.13.2",
+          "name": "Производство колбасных изделий"
+        },
+        "additionalActivitiesCount": 39
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'ФАБЕРЛИК'",
+        "shortName": "АО 'ФАБЕРЛИК'",
+        "status": "действующая",
+        "registrationDate": "1998-03-25",
+        "legalForm": "Непубличные акционерные общества",
+        "authorizedCapital": 35562000
+      },
+      "identifiers": {
+        "inn": "5001026970",
+        "ogrn": "1025000507399",
+        "kpp": "772401001",
+        "okpo": "48781886"
+      },
+      "location": {
+        "legalAddress": "117403, г. Москва, ул. Никопольская, д. 4",
+        "administrativeDistrict": "Южный административный округ",
+        "municipality": "Бирюлево Западное",
+        "coordinates": {
+          "latitude": 55.585337,
+          "longitude": 37.621471
+        },
+        "cadastralNumber": "77:05:0009005:1191"
+      },
+      "management": {
+        "ceoName": "Бармашов Константин Сергеевич"
+      },
+      "contacts": {
+        "websites": ["https://faberlic.com/"],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "20.42",
+          "name": "Производство парфюмерных и косметических средств"
+        },
+        "additionalActivitiesCount": 36
+      },
+      "financials": {
+        "2023": {
+          "revenue": 24000000000,
+          "netProfit": 3537000000
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ 'НЕФТЕХИМИЯ''",
+        "shortName": "ООО 'НПП 'НЕФТЕХИМИЯ''",
+        "status": "действующая",
+        "registrationDate": "2003-04-16",
+        "legalForm": null,
+        "authorizedCapital": 641500000
+      },
+      "identifiers": {
+        "inn": "7723332561",
+        "ogrn": "1037723015880",
+        "kpp": "772301001",
+        "okpo": "14596232"
+      },
+      "location": {
+        "legalAddress": "109429, город Москва, Капотня 2-й кв-л, д. 1, к. 13",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": {
+          "latitude": 55.650805,
+          "longitude": 37.796382
+        },
+        "cadastralNumber": "77:04:0004020:1281"
+      },
+      "management": {
+        "ceoName": "Горобец Евгений Александрович"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": ["info@neftekhimia.ru"],
+        "phones": ["+7 (495) 287-34-33", "+7 (495) 995-14-68"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "20.16",
+          "name": "Производство пластмасс и синтетических смол в первичных формах"
+        },
+        "additionalActivitiesCount": 18
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'МУЛТОН ПАРТНЕРС'",
+        "shortName": "ООО 'МУЛТОН ПАРТНЕРС'",
+        "status": "действующая",
+        "registrationDate": "1999-04-15",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 9526276235.74
+      },
+      "identifiers": {
+        "inn": "7701215046",
+        "ogrn": "1025202617461",
+        "kpp": "772901001",
+        "okpo": "13235549"
+      },
+      "location": {
+        "legalAddress": "119633, г. Москва, ул. Новоорловская, д. 7",
+        "administrativeDistrict": "Западный административный округ",
+        "municipality": "Ново-Переделкино",
+        "coordinates": {
+          "latitude": 55.633612,
+          "longitude": 37.362244
+        },
+        "cadastralNumber": "77:07:0015009:1135"
+      },
+      "management": {
+        "ceoName": "Паунич Радомир"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "11.07.2",
+          "name": "Производство безалкогольных напитков ароматизированных и/или с добавлением сахара, кроме минеральных вод"
+        },
+        "additionalActivitiesCount": 16
+      },
+      "financials": {
+        "2023": {
+          "revenue": 77320000000,
+          "netProfit": 10250000000
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "АКЦИОНЕРНОЕ ОБЩЕСТВО 'МЭЛ'",
+        "shortName": "АО 'МЭЛ'",
+        "status": "действующая",
+        "registrationDate": "1994-08-16",
+        "legalForm": null,
+        "authorizedCapital": 201973800
+      },
+      "identifiers": {
+        "inn": "7718014620",
+        "ogrn": "1027700082365",
+        "kpp": "771801001",
+        "okpo": "03989649"
+      },
+      "location": {
+        "legalAddress": "107143, город Москва, 2-Й Иртышский пр-д, д. 11",
+        "administrativeDistrict": "Восточный административный округ",
+        "municipality": "Гольяново",
+        "coordinates": {
+          "latitude": 55.818645,
+          "longitude": 37.774876
+        },
+        "cadastralNumber": "77:03:0002006:1185"
+      },
+      "management": {
+        "ceoName": "Родиков Руслан Святославович"
+      },
+      "contacts": {
+        "websites": ["http://zavodmel.ru"],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "28.22",
+          "name": "Производство подъемно-транспортного оборудования"
+        },
+        "additionalActivitiesCount": 8
+      },
+      "financials": {
+        "2023": {
+          "revenue": 11850000000,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО 'РОТ ФРОНТ'",
+        "shortName": "ОАО 'РОТ ФРОНТ'",
+        "status": "действующая",
+        "registrationDate": "1992-04-09",
+        "legalForm": "Публичные акционерные общества",
+        "authorizedCapital": 151556106
+      },
+      "identifiers": {
+        "inn": "7705033216",
+        "ogrn": "1027700042985",
+        "kpp": "770501001",
+        "okpo": "00340664"
+      },
+      "location": {
+        "legalAddress": "115184, г. Москва, пер. 2-й Новокузнецкий, д. 13/15",
+        "administrativeDistrict": null,
+        "municipality": "Замоскворечье",
+        "coordinates": {
+          "latitude": 55.73401,
+          "longitude": 37.631784
+        },
+        "cadastralNumber": "77:01:0002006:1023"
+      },
+      "management": {
+        "ceoName": "ООО 'ОБЪЕДИНЕННЫЕ КОНДИТЕРЫ' (управляющая организация)"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.82",
+          "name": "Производство какао, шоколада и сахаристых кондитерских изделий"
+        },
+        "additionalActivitiesCount": 34
+      },
+      "financials": {
+        "2023": {
+          "revenue": 21600000000,
+          "netProfit": 732000000
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО БУЛОЧНО-КОНДИТЕРСКИЙ КОМБИНАТ 'КОЛОМЕНСКИЙ'",
+        "shortName": "ЗАО БКК 'КОЛОМЕНСКИЙ'",
+        "status": "действующая",
+        "registrationDate": "2010-11-10",
+        "legalForm": null,
+        "authorizedCapital": 154759
+      },
+      "identifiers": {
+        "inn": "7724766868",
+        "ogrn": "1107746913845",
+        "kpp": "772401001",
+        "okpo": "68861009"
+      },
+      "location": {
+        "legalAddress": "115230, г. Москва, проезд Хлебозаводский, д. 7",
+        "administrativeDistrict": null,
+        "municipality": "Нагатино-Садовники",
+        "coordinates": {
+          "latitude": 55.669168,
+          "longitude": 37.631649
+        },
+        "cadastralNumber": "77:05:0004003:1050"
+      },
+      "management": {
+        "ceoName": "Козлов Дмитрий Владимирович"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.71",
+          "name": "Производство хлеба и мучных кондитерских изделий, тортов и пирожных недлительного хранения"
+        },
+        "additionalActivitiesCount": 13
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'ХЛЕБНЫЙ ДОМ'",
+        "shortName": "ООО 'ХЛЕБНЫЙ ДОМ'",
+        "status": "действующая",
+        "registrationDate": "2015-06-05",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 21270840.25
+      },
+      "identifiers": {
+        "inn": "7810356819",
+        "ogrn": "1157847198926",
+        "kpp": "771701001",
+        "okpo": "31074127"
+      },
+      "location": {
+        "legalAddress": "129075, г. Москва, Звёздный б-р, д. 23, стр. 1",
+        "administrativeDistrict": null,
+        "municipality": "Останкинский",
+        "coordinates": {
+          "latitude": 55.811391,
+          "longitude": 37.623492
+        },
+        "cadastralNumber": "77:02:0022014:1106"
+      },
+      "management": {
+        "ceoName": "Козлов Дмитрий Владимирович"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.71",
+          "name": "Производство хлеба и мучных кондитерских изделий, тортов и пирожных недлительного хранения"
+        },
+        "additionalActivitiesCount": 15
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'БИФОРКОМ ТЕКНОЛОДЖИС'",
+        "shortName": "ООО 'БИФОРКОМ ТЕК'",
+        "status": "действующая",
+        "registrationDate": "2015-09-21",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 109100000
+      },
+      "identifiers": {
+        "inn": "7728313442",
+        "ogrn": "1157746861711",
+        "kpp": "772301001",
+        "okpo": "49366936"
+      },
+      "location": {
+        "legalAddress": "109316, г. Москва, пр-кт Волгоградский, д. 42, корп. 5, помещ. I, ком. 115",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": {
+          "latitude": 55.708902,
+          "longitude": 37.721058
+        },
+        "cadastralNumber": "77:04:0003004:1088"
+      },
+      "management": {
+        "ceoName": "Галенко Сергей Николаевич"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": ["+7(495)241-12-94"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "26.30",
+          "name": "Производство коммуникационного оборудования"
+        },
+        "additionalActivitiesCount": 31
+      },
+      "financials": {
+        "2023": {
+          "revenue": 20972032000,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": 5166446000,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ 'НПО ПРОМЕТ'",
+        "shortName": "ООО 'НПО ПРОМЕТ'",
+        "status": "действующая",
+        "registrationDate": "2015-08-18",
+        "legalForm": "Общества с ограниченной ответственностью",
+        "authorizedCapital": 682000000
+      },
+      "identifiers": {
+        "inn": "7751009218",
+        "ogrn": "1155003003121",
+        "kpp": "711701001",
+        "okpo": "47272295"
+      },
+      "location": {
+        "legalAddress": "301602, Тульская область, Узловский район, г. Узловая, ул. Дубовская, д. 2А",
+        "administrativeDistrict": null,
+        "municipality": null,
+        "coordinates": {
+          "latitude": 53.945581,
+          "longitude": 38.151369
+        },
+        "cadastralNumber": null
+      },
+      "management": {
+        "ceoName": "Петров Евгений Валерьевич"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": ["moscow@safe.ru"],
+        "phones": ["+7 (495) 777-48-38"]
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "25.99.21",
+          "name": "Производство бронированных или армированных сейфов, несгораемых шкафов и дверей"
+        },
+        "additionalActivitiesCount": 64
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    },
+    {
+      "companyInfo": {
+        "fullName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО 'МОСКОВСКАЯ КОНДИТЕРСКАЯ ФАБРИКА 'КРАСНЫЙ ОКТЯБРЬ''",
+        "shortName": "ПАО 'КРАСНЫЙ ОКТЯБРЬ'",
+        "status": "действующая",
+        "registrationDate": "1992-11-25",
+        "legalForm": "Публичные акционерные общества",
+        "authorizedCapital": 11022816
+      },
+      "identifiers": {
+        "inn": "7706043263",
+        "ogrn": "1027700247618",
+        "kpp": "770801001",
+        "okpo": "00340635"
+      },
+      "location": {
+        "legalAddress": "107140, г. Москва, ул. Малая Красносельская, д. 7, стр. 24",
+        "administrativeDistrict": "Центральный административный округ",
+        "municipality": "Красносельский",
+        "coordinates": {
+          "latitude": 55.787791,
+          "longitude": 37.657538
+        },
+        "cadastralNumber": "77:01:0003037:3193"
+      },
+      "management": {
+        "ceoName": "ООО 'ОБЪЕДИНЕННЫЕ КОНДИТЕРЫ' (управляющая организация)"
+      },
+      "contacts": {
+        "websites": [],
+        "emails": [],
+        "phones": []
+      },
+      "businessActivity": {
+        "mainActivity": {
+          "code": "10.82",
+          "name": "Производство какао, шоколада и сахаристых кондитерских изделий"
+        },
+        "additionalActivitiesCount": 18
+      },
+      "financials": {
+        "2023": {
+          "revenue": null,
+          "netProfit": null
+        },
+        "2022": {
+          "revenue": null,
+          "netProfit": null
+        }
+      }
+    }
+  ]
+}
